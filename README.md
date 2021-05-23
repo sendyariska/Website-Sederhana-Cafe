@@ -1,7 +1,7 @@
 # Website-Sederhana-Cafe
 
 # Profil
-#### Nama  : Sendy Ariska Putra /n
+#### Nama  : Sendy Ariska Putra
 #### NIM   : DBC 117 088
 
 # Usage
